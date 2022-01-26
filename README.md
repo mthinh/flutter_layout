@@ -4,7 +4,7 @@ A flutter repo where I learn Flutter layout, styling, etc
 
 Ex: Simple Card 
 
-![Simulator Screen Shot - iPhone 7 - 2022-01-26 at 10 00 31](https://user-images.githubusercontent.com/28992487/151096838-7149a592-fd77-40e1-9b98-cee92eeee66b.png)
+<img height="300px" src="https://user-images.githubusercontent.com/28992487/151096838-7149a592-fd77-40e1-9b98-cee92eeee66b.png" />
 
 ## Getting Started
 
